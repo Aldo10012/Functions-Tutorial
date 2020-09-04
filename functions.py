@@ -4,7 +4,7 @@ def area(width, height):
 result = area(5, 6)
 print(result)
 
-print(are(9,3))
+print(area(9,3))
 print(area(2,7))
 
 def subtract(num1, num2):
@@ -14,10 +14,10 @@ def subtract(num1, num2):
 print(subtract(7,1))
 print(subtract(13,5))
 
-def divide(num1, num2)
+def divide(num1, num2):
     result = num1 / num2
     return result
 
-def add(num1, num2)
+def add(num1, num2):
     result = num1 + num2
     return result
