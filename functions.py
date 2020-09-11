@@ -21,3 +21,8 @@ def divide(num1, num2):
 def add(num1, num2):
     result = num1 + num2
     return result
+
+result = add(4,10)
+print(result)
+result = add(9,17)
+print(result)
